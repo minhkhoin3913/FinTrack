@@ -70,4 +70,4 @@ FinTrack/
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any queries or contributions, contact us at [your email] or open an issue on GitHub.
+For any queries or contributions, contact us at nguyenminhkhoi3913@gmail.com or open an issue on GitHub.
